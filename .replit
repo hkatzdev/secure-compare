@@ -1,0 +1,2 @@
+run = "deno test -c tsconfig.json test.ts"
+language = "deno"
